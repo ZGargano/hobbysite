@@ -1,0 +1,22 @@
+.banner_item{
+color:white;
+display:inline;
+}
+#banner{
+background-color:#023;
+}
+a{
+color:white;
+text-decoration:none;
+font-size: 16pt;
+padding:5px;
+}
+body{
+ background-image: url("https://img00.deviantart.net/7c6e/i/2010/335/4/9/pokeball_wallpaper_4_by_aervormund-d341637.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100%;
+}
+h1{
+color: red;
+}

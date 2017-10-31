@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gargano's Pokemon Site</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+ <div id="banner">
+	<div class="banner_item"><a href="index.html">Home</a></div>
+	<div class="banner_item"><a href="blog.html">Blog</a></div>
+	<div class="banner_item"><a href="gallery.html">Gallery</a></div>
+	<div class="banner_item"><a href="#">Chart</a></div>
+</div>
+<img src="
+</body>
+</html>

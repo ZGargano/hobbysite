@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gargano's Pokemon Site</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+ <div id="banner">
+	<div class="banner_item"><a href="index.html">Home</a></div>
+	<div class="banner_item"><a href="#">Blog</a></div>
+	<div class="banner_item"><a href="gallery.html">Gallery</a></div>	
+	<div class="banner_item"><a href="chart.html">Chart</a></div>
+<h2>Birds</h2>
+<h1>When I was making the evolution chart I thought that an important
+inclusion would be the various bird pokemon we know of. Although, placing
+these bird pokemon turned out to be much harder than I had anticipated.
+My main leverage when making this branch was the beak shapes. I though that
+maybe the shapes of their beaks would make it easier to find their spots.
+Even then, this task was very hard to complete. One major thing some people
+might notice is that Torchic branched off of Piplup. But the problem here
+is that Torchic is a fire type and Piplup is a water type.
+</html>
+
